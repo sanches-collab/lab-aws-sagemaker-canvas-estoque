@@ -10,7 +10,7 @@ Fiz meu projeto até a 3 fase,mas vou contar aqui tudo o que fiz e dica,pra quem
 
 - Dataset usado :Peguei o banco de dados ,dataset-1000-com-promocional-e-renovacao-estoque
 
-dataset-1000-com-preco-variavel-e-renovacao-estoque
+- dataset-1000-com-preco-variavel-e-renovacao-estoque
 
  Análise - Valor de medição 1 
 No primeiro o MASE era 0.109, ou seja na primeira medicação o valor de erro deste foi maior do que o segundo,comparando os dois ,o segundo foi melhor.
